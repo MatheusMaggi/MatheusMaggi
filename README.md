@@ -28,7 +28,7 @@
 ###
 
 - 📫 Working on @Minu
-- 📚 Learning Datadog | Kubernetes | Docker
+- 📚 Learning Datadog and Kubernetes 
 - 💻 Skills: HTML & CSS | C# | Git & Github | Datadog | MongoDB | mySQL
 
 
