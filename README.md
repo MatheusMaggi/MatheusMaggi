@@ -27,9 +27,10 @@
 
 ###
 
-- 🔭 Working on @Minu
-- 🌱 Learning: C# / Git & Github / MongoDB / mySQL
-- 📫 Contact me on email: matheus.lsmaggi@gmail.com
+- 📫 Working on @Minu
+- 📚 Learning Datadog and Kubernetes!
+- 💻 Skills: HTML & CSS | C# | Git & Github | Datadog | MongoDB | mySQL
+
 
 
  ##
