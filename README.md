@@ -29,6 +29,6 @@
 
 - 📫 Working on @Minu
 - 📚 Learning right now: Datadog | ArgoCD | Kubernetes
-- 💻 Skills: HTML & CSS | C# | PHP | Datadog | MongoDB | mySQL
+- 💻 Skills: C# | PHP | Datadog | MongoDB | mySQL | ArgoCD
 
  ##
