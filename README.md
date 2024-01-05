@@ -17,7 +17,7 @@
 ###
 
 - 📫 Working on @Minu
-- 📚 Skills: Kubernetes | ArgoCd | Datadog | MongoDB
+- 📚 Skills: Kubernetes | Datadog | ArgoCD  | MongoDB
 
 
  ##
